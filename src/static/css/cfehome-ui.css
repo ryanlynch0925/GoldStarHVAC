@@ -704,6 +704,10 @@ video {
   height: 1.5rem;
 }
 
+.h-1 {
+  height: 0.25rem;
+}
+
 .w-auto {
   width: auto;
 }
@@ -1001,6 +1005,10 @@ video {
 
 .ease-out {
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+}
+
+.\[g\:\FFFD\FFFDv\FFFD\FFFDvF\FFFDx\1\] {
+  g: ��v��vF�x;
 }
 
 .hover\:bg-black:hover {
